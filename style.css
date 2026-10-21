@@ -1,0 +1,77 @@
+
+body {
+    font-family: "Times New Roman", serif;
+    background-color: white;
+    color: black;
+    margin: 8px;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 22px;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin-top: 26px;
+    margin-bottom: 24px;
+}
+
+input {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 4px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.subject {
+    margin-bottom: 3px;
+}
+
+.subject label {
+    display: inline-block;
+}
+
+button {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 3px 8px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 8px;
+    text-align: left;
+}
+
+th, td {
+    padding: 2px 5px 2px 0;
+}
+
+.green {
+    color: green;
+    font-weight: bold;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+#error {
+    color: red;
+    font-weight: bold;
+}
+
+p {
+    margin: 8px 0;
+}
