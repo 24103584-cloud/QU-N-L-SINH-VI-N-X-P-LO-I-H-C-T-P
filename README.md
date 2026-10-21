@@ -1,1 +1,1 @@
-# QU-N-L-SINH-VI-N-X-P-LO-I-H-C-T-P
+# QUẢN LÝ SINH VIÊN & SẾP LOẠI HỌC TẬP
